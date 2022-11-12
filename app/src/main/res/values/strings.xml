@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TP1_Arij_Tlili</string>
+    <string name="mytext">Welcome to My First App</string>
+    <string name="login">Login</string>
+    <string name="EnterLogin">Enter Your Login</string>
+    <string name="Pass">Password</string>
+    <string name="enterPass">Enter your Password</string>
+    <string name="sign">Sign In</string>
+    <string name="update">Upadate Date and Time</string>
+
+    <string name="qu">What Type of calculation do you want\n to perform?</string>
+    <string name="sum">Sum</string>
+    <string name="square">square</string>
+    <string name="val1">Value 1</string>
+    <string name="enterval1">Value 1</string>
+    <string name="val2">Value 2</string>
+    <string name="enterval2">Value 2</string>
+    <string name="calc">Calculate</string>
+    <string name="res">Result</string>
+    <string name="pts">...</string>
+</resources>
